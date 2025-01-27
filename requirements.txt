@@ -3,4 +3,7 @@ pandas
 pymongo 
 faiss-cpu 
 sentence-transformers
+# Terminal 
+cd experiments
+streamlit run fetch_data.py
 
