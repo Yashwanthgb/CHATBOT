@@ -1,0 +1,6 @@
+streamlit 
+pandas 
+pymongo 
+faiss-cpu 
+sentence-transformers
+
